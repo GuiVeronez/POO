@@ -1,3 +1,5 @@
+package FilmePasta;
+
 import java.util.Scanner;
 
 public class Filme {
@@ -8,7 +10,7 @@ public class Filme {
     int duracaoEmMinutos;
 
     public void imprimirDados(){
-        System.out.println("Filme: " + nome);
+        System.out.println("FilmePasta.Filme: " + nome);
         System.out.println("Duração: " + duracaoEmMinutos + " Min");
         System.out.println("Classificação: " + classificacao);
         System.out.println("Genero: " + genero);

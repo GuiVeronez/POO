@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6516fee-4a7c-4a39-ab9a-a8c6f972d6cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/POO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="a6516fee-4a7c-4a39-ab9a-a8c6f972d6cf" name="Changes" comment="Curso Tecnico Desenvolvimento de Sistemas 2024">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer01/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer02/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer03/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer04/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer05/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer05/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilmePasta/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FilmePasta/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,9 +32,21 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GuiVeronez&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GuiVeronez/POO.git&quot;,
+    &quot;accountId&quot;: &quot;53295a75-0125-44fd-8ce3-601bec50cf4f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2kwPZxKr6X8oHx8mgV5KUEKEhDA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,8 +61,10 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ToolWindowRun.ShowToolbar": "false",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,6 +76,19 @@
       <option name="presentableId" value="Default" />
       <updated>1724191724473</updated>
     </task>
+    <task id="LOCAL-00001" summary="Curso Tecnico Desenvolvimento de Sistemas 2024">
+      <option name="closed" value="true" />
+      <created>1724201641120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724201641120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Curso Tecnico Desenvolvimento de Sistemas 2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso Tecnico Desenvolvimento de Sistemas 2024" />
   </component>
 </project>

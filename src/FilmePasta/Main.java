@@ -1,3 +1,5 @@
+package FilmePasta;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -8,7 +10,7 @@ public class Main {
 
         System.out.println("\n");
 
-        System.out.println("*** Dados do Filme ***");
+        System.out.println("*** Dados do FilmePasta.Filme ***");
 
         meuFilme.imprimirDados();
     }
