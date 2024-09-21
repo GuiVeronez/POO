@@ -1,4 +1,4 @@
-package Introducao;
+package Aulas.Filme;
 
 import java.util.Scanner;
 
