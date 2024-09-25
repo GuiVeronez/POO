@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6516fee-4a7c-4a39-ab9a-a8c6f972d6cf" name="Changes" comment="Curso Tecnico Desenvolvimento de Sistemas 2024">
-      <change afterPath="$PROJECT_DIR$/src/Aulas/Conta/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aulas/Conta/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer11/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer12/idadePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer13/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer14/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer15/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer04/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer04/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer04/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer05/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer05/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer05/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer06/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer06/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer06/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducao/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/Filme/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Introducao/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aulas/Filme/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prof Felipe.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
