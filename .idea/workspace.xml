@@ -5,41 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6516fee-4a7c-4a39-ab9a-a8c6f972d6cf" name="Changes" comment="Programação de Aplicativos Curso Tecnico Desenvolvimento de Sistemas 2024 2 Trimestre">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer16POO/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer17POO/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer18POO/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer19POO/Triangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer20POO/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/exer21POO/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/Conta/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/Conta/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/Filme/Filme.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aulas/Filme/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer01POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer01/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer01POO/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer02/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer02POO/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer02POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer03/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer03POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer03/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer03POO/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer04/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer04POO/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer04/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer04POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer05/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer05POO/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer05/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer05POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer06/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer06POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer06/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer06POO/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer07/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer07POO/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer07/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer07POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer08/Bola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer08POO/Bola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer08/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer08POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer09/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer09POO/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer09/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer09POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer10POO/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer10/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer10POO/Triangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer11/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer11POO/ContaBancaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer12/idadePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer12POO/idadePessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer13/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer13POO/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer14/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer14POO/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/exer15/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/exer15POO/Livro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727302473007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Programação de Aplicativos Curso Tecnico Desenvolvimento de Sistemas 2024 2 Trimestre">
+      <option name="closed" value="true" />
+      <created>1727305675253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727305675253</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
